@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Video files (optional - uncomment if you don't want to track video files)
+# *.mp4
+# *.avi
+# *.mov
+# *.mkv
+
+# Temporary files
+temp-audio.m4a
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
